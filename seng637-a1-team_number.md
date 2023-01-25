@@ -43,11 +43,11 @@ learned 1](#_Toc439194682)
 
 [7 Comments/feedback on the lab and lab document itself 1](#_Toc439194683)
 
-[8 Appendix A - Exploratory Functional Testing](#_Toc439194684)
+<!-- [8 Appendix A - Exploratory Functional Testing](#_Toc439194684)
 
 [9 Appendix B - Manual Functional Testing](#_Toc439194685)
 
-[10 Appendix C - GitHub Issues](#_Toc439194686)
+[10 Appendix C - GitHub Issues](#_Toc439194686) -->
 
 
 
