@@ -109,3 +109,15 @@ Text…
 
 
 Text…
+
+# Appendix A - Exploratory Functional Testing
+
+Table...
+
+# Appendix B - Manual Functional Testing
+
+Table...
+
+# Appendix C - GitHub Issues?
+
+
