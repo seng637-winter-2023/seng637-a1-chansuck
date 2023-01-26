@@ -9,7 +9,7 @@
 | Nicholas Lor                |  
 | Nic Hirschfeld              |  
 | Shawn(Chansuck) Lee               |  
-| Student 4 name                |  
+| Tania So                |  
 
 
 
