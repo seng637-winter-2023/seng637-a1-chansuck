@@ -4,7 +4,7 @@
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
 
-| Group: Group Number      |
+| Group: 14      |
 |-----------------|
 | Nicholas Lor                |  
 | Nic Hirschfeld              |  
