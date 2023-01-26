@@ -52,17 +52,36 @@ learned 1](#_Toc439194682)
 
 
 
-# Introduction # Shawn
+# Introduction 
 
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+The purpose of this lab is to explore the different processes of testing and bug tracking of a software system. Bug/Defect testing involves a SUT, defect tracking system, exploratory testing, manual scripting testing,and regression testing. For this lab the SUT(System Under Test) was a simple ATM/Card Transaction App while the defect tracking system that was used was Github Issues. 
 
 
-# High-level description of the exploratory testing plan #Shawn
+For the exploratory testing, each pair of team members thought of test cases on the fly and did not have a script or list of test cases going into the testing session. This produced many test cases but they were random and scattered as each team member will have a different thought process and technique of testing the app functions. Although the results were more scattered, exploratory testing offered more freedom for the tester to go as deep as they wanted (depth vs breadth) when testing functionalities. As for the manual functional testing, there was more structure (a tabular list of test cases) so the results were transparent before even starting the testing phase. After inputting the bugs into Github Issues, it was seen that a large amount of test cases for the manual functional testing was already covered in the exploratory testing. The regression testing was tested on a new version of the ATM app so the results/process did not clash as much with the previous testing methods. After regression testing, 11 bugs/issues were closed and 9 were still open. No new bugs were found during the regression testing period of Version 1.1 of the App.
 
 
-Text…
+The group’s general knowledge about the types and process of testing was very limited before the completion of the lab. An false assumption made was that manual testing involved no planning and was randomly tested by one person until all the bugs were caught. This description is more closely related to exploratory testing than manual functional testing. Prior to this lab the difference between the two types of testing was not very clear.
+
+
+# High-level description of the exploratory testing plan 
+
+
+The exploratory testing plan involved having 5 main functionalities of the ATM system as the functional structure for the tester to follow.
+
+
+1)Balance Inquiry
+2)Withdrawal
+3)Deposit
+4)Transfer
+5)Login
+
+
+Exploratory testing is an unscripted testing process where the tester will come up with most of the test cases, test design, and execution as the application is being tested. Along with the 5 major functions to be tested, the exploratory testing plan included the general approach to be taken when testing a function. This approach set a basic guideline for the team members to follow for a more streamlined and consistent testing process. The approach for testing a function was to test each/all functions of the application with a limited number of repetitions/combinations. An example is when testing the “Deposit” functionality, the tester will test if the deposit will work for each account(Checking, Saving etc) but after a “Transfer” has been done for one of the accounts. Checking for co-dependence of a function to another function was not in the scope of the exploratory testing plan and would have exceeded the time limit of the testing process. Realistic numbers were chosen as well for test inputs (non-negative, integer numbers etc).
+
+
+The two pairs of team members used a different card number to use for testing the ATM application. The two different bank cards had different accounts, settings, passwords etc. This helped to divide the functionalities between the groups to test similar test cases with a different baseline. The plan of how a tester was to come up with test cases was to use tests with common paths. The testers would input realistic numbers that a real ATM user would use. An example is when testing the “Deposit” functionality, the test will deposit $20 as opposed to an infinitely large sum like $99999999999999999. Capping the exploratory testing process to half an hour helped to make sure that all 5 main functionalities were covered instead of testing for random anomalies and combinations which would’ve taken significantly longer to do.
+
 
 
 # Comparison of exploratory and manual functional testing
