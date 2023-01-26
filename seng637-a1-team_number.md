@@ -121,21 +121,21 @@ For regression testing, the group retested the issues initially submitted and up
 A second manual scripted testing was performed as a group on Version 1.1, again following the test suite outlined in Appendix C. Again, Shawn performed the tests while the remaining group members were responsible for documentation.
 
 
-# Lessons Learned from your teamwork (NICK)
+# Lessons Learned from your teamwork
 
+One insight gathered during exploratory testing was that different team members may have different perspectives and ways of thinking about the SUT. This can lead to a variety of different tests being done, and as a result better test coverage, which is ultimately a positive thing. Certain team members may be able to think of test cases that others would not have. For example, Nick tested the bank card number of ‘3’ during exploratory testing which uncovered a bug which froze version 1.0 of the ATM system. 
 
+# Difficulties encountered, challenges overcome, and lessons learned
 
+Most difficulties arose from not having used the issues feature of GitHub in the past, and was mostly a familiarity challenge which was quickly overcome with some research and experimentation. There were also some initial difficulties trying to understand how to properly configure the GitHub with all of the team members, however after a small amount of research this was also resolved. 
 
-# Difficulties encountered, challenges overcome, and lessons learned (NICK)
+A lesson we learned was that exploratory testing gives users more flexibility when testing the system, but at the expense of structure. Even though we found many of the bugs during initial exploratory testing, we still found new ones in the scripted testing that wouldn’t have been found if only exploratory testing was done. Since exploratory testing has no script, it is harder to define test coverage with this type of testing. This is why it’s important to have a high-level plan of what should be covered when initiating exploratory testing.
 
-
-Text…
-
+We also learned the importance of regression testing to ensure that existing bugs are rectified. Not only is it important to test the previous bugs found, it is also important to re-do the scripted testing set, to ensure that no new bugs are created unintentionally by trying to fix prior bugs. We did not find any new bugs created, however it is very possible a 1.2 version could re-introduce new bugs by fixing bugs from 1.1.
 
 # Comments/feedback on the lab and lab document itself (NICK)
 
-
-Text…
+This was a good lab to be introduced to the different types of testing, and also learning how to use GitHub issues. The lab instructions were detailed enough to give the team direction on how to complete the lab, and the rubric/report structure provided a straightforward way to structure the report.
 
 # Appendix A - Exploratory Functional Testing
 
