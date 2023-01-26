@@ -8,7 +8,7 @@
 |-----------------|
 | Nicholas Lor                |  
 | Nic Hirschfeld              |  
-| Student 3 name               |  
+| Shawn(Chansuck) Lee               |  
 | Student 4 name                |  
 
 
